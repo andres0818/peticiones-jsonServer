@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!-- CSS only -->
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet"
+		integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+	<!-- JavaScript Bundle with Popper -->
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"
+		integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3"
+		crossorigin="anonymous"></script>
+	<title>Document</title>
+</head>
+
+<body>
+
+
+	<h1>http</h1>
+	<h3>qué es</h3>
+	<p>
+		Es el protocolo de transferencia de hiper textos, normalmente usado para la comunicación entre cliente y
+		servidor
+	</p>
+	<p>
+		<strong>cliente == nuestro navegador</strong>
+	</p>
+	<br>
+	<strong>servidor == donde se guarda la pagina</strong>
+	<ul>
+		<li>- dns: myserver.com</li>
+		<li>- ip: 123.123.123.123:8080</li>
+		<li>- fotos: /fotos </li>
+		<li>- datos: /datos </li>
+		<li>- archivos: /archivos</li>
+		<li>- etc:</li>
+	</ul>
+	<p>
+		- Nuestra página es un archivo estático de html
+		que el servidor le manda a nuestro navegador
+		<br>
+		- Nuestro navegador, tiene una manera de hablar con servidores: fetch : ajax
+		<br>
+		- ¿cómo le mando info al server? -> fetch : ajax
+	</p>
+	<span>
+		qué es la s del https: "secure" : e2e encryption
+	</span>
+	<hr>
+	<h3>como funciona:</h3>
+	<ol>
+		<li>
+			servidor abre un puerto para escuchar peticiones http
+		</li>
+
+		<li>
+			cliente manda una peticion http al servidor
+		</li>
+
+		<li>
+			servidor analiza peticion del cliente: verbos http
+		</li>
+
+		<li>
+			servidor responde cliente
+		</li>
+	</ol>
+
+	<h3>
+		peticiones http
+	</h3>
+
+	<ul>
+		<li>
+			url: base_url + path_url
+		</li>
+		<li>
+			headers: metadata
+		</li>
+		<li>
+			body: la info que yo mando, si es GET entonces no se manda nada
+		</li>
+		<li>
+		</li>
+	</ul>
+
+	<h3>verbos</h3>
+	<ul>
+		<li>GET: pedir cosas</li>
+		<li>POST: mandar cosas nuevas</li>
+		<li>PUT: sobreescribir cosas que existen</li>
+		<li>PATCH: editar cosas que existen</li>
+		<li>DELETE: para que una cosa ya no exista</li>
+	</ul>
+	<p>hay muchos otros verbos o métodos, pero no se usan casi</p>
+
+	<h3>API REST</h3>
+
+	<p>La manera de diseñar backends para que sea fáciles de consultar y tengan buen rendimiento</p>
+
+
+	<h3>verbos http en JS</h3>
+	<ul>
+		<li>GET: simplemente con fetch(API_URL) </li>
+		<li>POST:</li>
+		<li>PUT:</li>
+		<li>PATCH:</li>
+		<li>DELETE:</li>
+	</ul>
+
+
+	<span>curiosidad: <strong>ejercicio admin</strong></span>
+
+
+	<a href="admin.html">
+		<h2>admin</h2>
+	</a>
+
+</body>
+
+</html>

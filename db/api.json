@@ -1,0 +1,78 @@
+{
+    "producto":[
+        {
+            "id":0,
+            "img":"https://pimiento.com.co/2560-large_default/cheetos-flamin-hot-x-37-gr.jpg",
+            "descripcion":"Fantasticos Cheetos de Queso picantes",
+            "precio":"$2000",
+            "descuento":"$2500",
+            "categoria":"Mecatos"
+        },{
+            "id":1,
+            "img":"https://elcomercio.pe/resizer/hty6NbG9qe9kPobUETF5V8EMNfs=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/6RY2RVYXSRHTLD4ZX2FZHNZZOA.jpg",
+            "descripcion": "Deliciosas papas 100% naturales, campecinas",
+            "precio":"$6500",
+            "descuento":"$7900",
+            "categoria":"Vegetales"
+        },{
+            "id":2,
+            "img":"https://www.sipasolutions.es/media/cache/width_635/uploads/page/624d6e4be2ee6977867821.jpg",
+            "descripcion":"SMIRNOFF,bebida alcoholica con un toque de vodka",
+            "precio":"$65000",
+            "descuento":"$70000",
+            "categoria":"Bebidas"
+        },{
+            "id":3,
+            "img":"https://img.freepik.com/vector-gratis/conjunto-ingredientes-animales-cocinar-comida-salchicha-nudillo-cerdo-becon-muslo-pollo-estilo-dibujo-verduras-aislado-ilustracion-vector-fondo-blanco_1150-65718.jpg?w=2000",
+            "descripcion": "Carnes, proteina perfecta para acompañar lascomidas",
+            "precio":"$15000",
+            "descuento":"$17000",
+            "categoria":"Carnes"
+        },{
+            "id":4,
+            "img":"https://imagenes.heraldo.es/files/og_thumbnail/uploads/imagenes/2015/08/14/_desayunar_62409e91.jpg",
+            "descripcion":"Un antojito para desayunar, cereal, fruta y jugo",
+            "precio":"$8500",
+            "descuento":"$9000",
+            "categoria": "Desayunos"
+        },{
+            "id":5,
+            "img":"https://ken-foods.com/en/wp-content/uploads/2018/07/el-origen-del-helado-e1530726550260.jpg",
+            "descripcion":"Deliciosos y refrescantes helados, postre perfecto para tener en casa",
+            "precio":"$25000",
+            "descuento":"$27000",
+            "categoria": "Helados"
+        },{
+            "id":6,
+            "img":"https://media.takealot.com/covers_images/3cf8b444382f4f649d25c549d9cb5c4b/s-pdpxl.file",
+            "descripcion":"Galletas Fantasy Crujientes Choco Chip",
+            "precio": "$2000",
+            "descuento":"$3000",
+            "categoria": "Galletas"
+        },{
+            "id":7,
+            "img":"https://exitocol.vtexassets.com/arquivos/ids/4377260/3-paquetes-de-caramelos-con-sabor-a-leche-x-100-unidades.jpg?v=637377159598030000",
+            "descripcion": "Caramelo mastible, bolsa por 100 unidades",
+            "precio":"$6000",
+            "descuento":"$6300",
+            "categoria":"Caramelos"
+        }
+    ]
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+}

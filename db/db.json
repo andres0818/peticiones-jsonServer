@@ -1,0 +1,32 @@
+{
+  "orders": [],
+  "users": [
+    {
+      "id": "0",
+      "name": "pepe",
+      "age": "69"
+    },
+    {
+      "id": "1",
+      "name": "jaimito",
+      "age": "12"
+    },
+    {
+      "id": "2",
+      "name": "trina",
+      "age": "40"
+    }
+  ],
+  "products": [
+    {
+      "id": 0,
+      "name": "water",
+      "price": 1
+    },
+    {
+      "id": 1,
+      "name": "soda",
+      "price": 1
+    }
+  ]
+}
